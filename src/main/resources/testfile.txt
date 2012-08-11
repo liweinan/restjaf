@@ -1,0 +1,1 @@
+This is a REST and JAF test.ResourceData=floats+and+matesHere is some PUT dataHere is some PUT dataResourceData=cakes+and+matus
